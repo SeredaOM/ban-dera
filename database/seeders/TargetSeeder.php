@@ -200,7 +200,21 @@ class TargetSeeder extends Seeder
         'https://ddos-guard.net/ru',
         'https://stormwall.pro/',
         'https://qrator.net/ru/',
-        'https://solidwall.ru/'
+        'https://solidwall.ru/',
+        'https://vesti-k.ru/',
+        'https://sprosim.srzapravdu.org/',
+        'https://c-eho.info/',
+        'https://vk.com/',
+        'https://ok.ru/',
+        'https://ria.ru/',
+        'https://city-mobil.ru/',
+        'https://scloud.ru',
+        'http://pravo.gov.ru/',
+        'https://edu.gov.ru/',
+        'https://www.nestle.ru/',
+        'https://www.metro-cc.ru/',
+        'https://mail.ru/',
+        'https://rutube.ru/'
     ];
 
     /**
