@@ -214,7 +214,11 @@ class TargetSeeder extends Seeder
         'https://www.nestle.ru/',
         'https://www.metro-cc.ru/',
         'https://mail.ru/',
-        'https://rutube.ru/'
+        'https://rutube.ru/',
+        'https://www.gazprom-neft.ru/',
+        'https://www.gazprom.com/',
+        'https://www.rosneft.com/',
+        'https://www.rosneft.ru/'
     ];
 
     /**
